@@ -1,7 +1,7 @@
 {
   "key": "rankings",
   "name": "Rankings",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.6",
   "description": "User rankings with tiers, points, and watch-time rewards.",
   "icon": "ri:trophy-line",
   "entry": "dist/index.js",
@@ -12,6 +12,6 @@
   ],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-rankings/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-rankings/releases/download/v0.1.0-alpha.1/plugin-rankings.zip",
-  "sha256": "d7aa862feab8a3986513fae6c07696ad07432660708a192f9d43de2a956daaf9"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-rankings/releases/download/v0.1.0-alpha.6/plugin-rankings.zip",
+  "sha256": "ea742759f116a1401df62fa130f789fc3e507988d6b00adbd2036de183c2a792"
 }
