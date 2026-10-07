@@ -13,5 +13,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-rankings/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-rankings/releases/download/v0.1.0-alpha.7/plugin-rankings.zip",
-  "sha256": "0059517707ac4abcec45c7ab532a45121cdf8e93349907d0cb808f9e0ac5c7e3"
+  "sha256": "3263ee539f25c51e7e8a553ebe9d1afb4de5849a3f53f0065a1b0975b81e85af"
 }
